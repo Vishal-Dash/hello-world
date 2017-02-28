@@ -1,3 +1,3 @@
 # hello-world
-java programming bluej format
+java programming
 
